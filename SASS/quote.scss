@@ -1,3 +1,25 @@
+.quote {
+  &--container {
+    width: auto;
+    max-width: 900px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  &--text {
+    font-size: 2.3rem;
+  }
+
+  &--author {
+    margin-top: 15px;
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: italic;
+  }
+}
+
 .quote--container {
   width: auto;
   max-width: 900px;

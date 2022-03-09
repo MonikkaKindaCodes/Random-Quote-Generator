@@ -1,0 +1,19 @@
+{
+  "name": "random-quote-generator",
+  "version": "1.0.0",
+  "description": "Random Quote Generator",
+  "main": "app.js",
+  "scripts": {
+    "compile:sass": "sass main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonikkaKindaCodes/Random-Quote-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonikkaKindaCodes/Random-Quote-Generator/issues"
+  },
+  "homepage": "https://github.com/MonikkaKindaCodes/Random-Quote-Generator#readme"
+}
